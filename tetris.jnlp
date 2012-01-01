@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JNLP File for Tetris -->
+
+<jnlp codebase="https://github.com/juliangamble/clojure-tetris" 
+      href="https://sites.google.com/site/juliangamble/Home/tetris.jnlp">  
+  <information>
+    <title>Tetris</title>
+    <vendor>Machiavellian</vendor>
+  </information>
+  <resources>
+    <j2se version="1.4+" />
+    <jar href="https://sites.google.com/site/juliangamble/Home/tetris.jar"/>
+  </resources>
+  <application-desc main-class="tetris.core"/>
+  <offline-allowed/>
+  <security>
+    <all-permissions/>
+  </security>
+</jnlp>

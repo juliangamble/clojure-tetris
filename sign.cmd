@@ -1,0 +1,1 @@
+jarsigner -keystore compstore -storepass sunshine -keypass sunshine -signedjar tetris.jar tetris-0.0.1-SNAPSHOT-standalone.jar signFiles

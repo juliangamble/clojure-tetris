@@ -1,0 +1,11 @@
+This is based on this gist:
+https://gist.github.com/1207703
+
+Which comes from Alex Yakushev's blog entry:
+http://codethat.wordpress.com/2011/09/10/writing-tetris-in-clojure/
+
+It also includes an obsolete Swing library deflayout:
+https://github.com/alexander-yakushev/deflayout/
+
+The point here is to add Java Web start to enable it to be demoed to a wider audience
+and promote the clojure community.
